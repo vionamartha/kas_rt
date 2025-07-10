@@ -35,10 +35,10 @@ Berikut adalah link desain antarmuka dan prototipe interaktif aplikasi yang dibu
 ## Dokumentasi Proyek
 Kami juga menyediakan dokumentasi visual dan presentasi sebagai bagian dari laporan akhir:
 
-- **Poster Proyek**: [Poster Aplikasi](https://drive.google.com/file/d/13z22w2H66dGC7SH3E2AKudb1cybTriPxD/view?usp=sharing)
+- **Poster Proyek**: [Poster Aplikasi](https://drive.google.com/file/d/13z22w2H6dGC7SH3E2AKudb-1cybTiPxD/view?usp=sharing)
 - **Video Presentasi**: [Link Video](URL_VIDEO)
 
-## Tim Pengembang
+## Tim Pengembang (Kelompok 4)
 - **Viona Martha Rayendra** (312310122)  
 - **Devi Wulan Noer Cahyani** (312310073)  
 - **Afifah Misky Cahyani** (312310087)  
