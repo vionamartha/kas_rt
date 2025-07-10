@@ -1,0 +1,20 @@
+# Mengabaikan file sementara yang dihasilkan oleh sistem atau editor
+*.log
+*.env
+*.bak
+*.swp
+*.tmp
+
+# Mengabaikan file konfigurasi editor yang tidak relevan
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Mengabaikan file cache dan session yang tidak relevan untuk repository
+/cache/
+/*.sess
+
+# Mengabaikan file arsip dan file besar yang tidak diperlukan
+*.zip
+*.tar.gz
+*.rar
