@@ -36,7 +36,7 @@ Berikut adalah link desain antarmuka dan prototipe interaktif aplikasi yang dibu
 Kami juga menyediakan dokumentasi visual dan presentasi sebagai bagian dari laporan akhir:
 
 - **Poster Proyek**: [Poster Aplikasi](https://drive.google.com/file/d/13z22w2H6dGC7SH3E2AKudb-1cybTiPxD/view?usp=sharing)
-- **Video Presentasi**: [Link Video](URL_VIDEO)
+- **Video Presentasi**: [Link Video](https://drive.google.com/file/d/1FA6mI71N-2Os-E3nOgvK97i6ekIJV2Gk/view?usp=sharing)
 
 ## Tim Pengembang (Kelompok 4)
 - **Viona Martha Rayendra** (312310122)  
